@@ -2,5 +2,5 @@ flask
 requests
 blockchain
 python-time
-urllib
+urllib3
 uuid
